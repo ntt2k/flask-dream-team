@@ -9,6 +9,8 @@ flask-sqlalchemy = "*"
 flask-login = "*"
 flask-migrate = "*"
 sadisplay = "*"
+flask-wtf = "*"
+flask-bootstrap = "*"
 
 [dev-packages]
 
